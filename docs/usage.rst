@@ -13,7 +13,7 @@ predictable.
 
 .. note::
     If you don't have the JSON schema for the data you want to flatten, you can
-    use a tool to generate a JSON schema for your data, like `Skinfer`_ or
+    use a tool to generate a JSON schema for your data, like `Skinfer`_, `ExtendsClass`_ or
     http://jsonschema.net.
 
 Walk-through with an example
@@ -84,3 +84,4 @@ TODO: write about array serialization here, point to design decisions, list avai
 
 .. _JSON schema: http://spacetelescope.github.io/understanding-json-schema/index.html
 .. _Skinfer: https://github.com/scrapinghub/skinfer
+.. _ExtendsClass: https://extendsclass.com/json-schema-validator.html
